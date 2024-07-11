@@ -1,6 +1,6 @@
 # Dashboard Builder 📅 
 
-> Flask, Python, HTML, CSS, JavaScript, SQLAlchemy, Jinja, Bootstrap.
+> Flask, Python, HTML, CSS, JavaScript, SQLite, Jinja, Bootstrap.
 
 ## Project Overview
 A Flask web app that provides a user-friendly, multi-functional dashboard for custom events. 
